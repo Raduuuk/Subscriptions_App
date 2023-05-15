@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Subscription Tracker</string>
+    <string name="dd_mm_yyyy">DD.MM.YYYY</string>
+    <string name="subscription_name">Subscription Name:</string>
+    <string name="calculate">Calculate</string>
+    <string name="end_date">End Date:</string>
+    <string name="start_date">Start Date:</string>
+</resources>
